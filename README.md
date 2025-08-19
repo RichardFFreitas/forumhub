@@ -25,8 +25,8 @@ A Forum Hub API é um projeto desenvolvido para gerenciar perfis, cursos, tópic
 **Clonar o Repositório:**  
 
 ```bash
-git clone https://github.com/richardffreitas/forum-hub.git
-cd forum-hub
+git clone https://github.com/richardffreitas/forumhub.git
+cd forumhub
 ````
 
 **Configurar o Banco de Dados:**
