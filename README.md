@@ -1,33 +1,15 @@
 # API Forum Hub
 
 A Forum Hub API é um projeto desenvolvido para gerenciar perfis, cursos, tópicos, respostas e usuários. Suas funcionalidades incluem operações CRUD completas, autenticação e autorização baseada em JWT (JSON Web Token) e suporte à paginação em recursos que retornam todos os elementos cadastrados.
+ 
 
-## Informações Gerais
-
-**Título:** Forum Hub API  
-**Versão da API:** 1.0b  
-**Licença:** [![License: MIT](https://img.shields.io/badge/License-MIT-gree.svg)](https://opensource.org/licenses/MIT)  
-
-**URL Base do Servidor:** http://localhost:8080  
-
-## Tecnologias Utilizadas
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
-
-## Ambiente de Desenvolvimento
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  
+**URL Base do Servidor:** http://localhost:8080
 
 ## Técnicas Utilizadas
 
 - Desenvolvido com Java 17+ usando Spring Initializr.  
 - Versionamento no GitHub.  
-- Banco de dados MySQL versionado com FlywayDB.  
+- Banco de dados MySQL.  
 - Manipulação de dados com Spring JPA.  
 - API RESTful com Spring Boot, autenticação com Spring Security e JWT.  
 - Documentação via Swagger/OpenAPI.  
